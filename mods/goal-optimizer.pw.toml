@@ -1,0 +1,13 @@
+name = "Goal Optimizer"
+filename = "goaloptimizer-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3ee45058401d0ed8b9a0a3b4ac2ab3e80466a47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4628162
+project-id = 878165

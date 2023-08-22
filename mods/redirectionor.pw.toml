@@ -1,0 +1,13 @@
+name = "Redirectionor"
+filename = "redirectionor-forge-1.19.2-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b403517d5da652cdc388c39d47a784c88b11411"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4654958
+project-id = 877289

@@ -1,0 +1,13 @@
+name = "Let Me Despawn"
+filename = "lmd-1.19.2-1.0-bukkit-paper.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13ffdcaa10a60aad76754b6b4868204d4ad2c02d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4111330
+project-id = 711551
