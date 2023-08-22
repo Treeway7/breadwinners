@@ -1,17 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "64617b0ceee4b76affbd25523c3f2f7db3549426acea98be4cf17b8a2e77d5f2"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
 metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "fe18cf61f03713f8049b0e4951edeaf293f3ca696c137cd89cc9a1f811bde85b"
+hash = "ea2a77769a30a663416ceb33627acf8122ddac58ce812a43cca634071987d0a4"
 metafile = true
 
 [[files]]
@@ -31,17 +27,17 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "8dfd5ae806895ee6036176990fafede8e5e8d9081f14b9ce241bbc86c79e883c"
+hash = "9129b8506009ba000fa1449707b3964272a58a95368ab97bc652ea94ce6884ae"
 metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "130ffcb310a5d51431fa7b5f9a54e664dae2ae8b0a24c7ac83556162e16ca4ad"
+hash = "a7772c1f7948e87e8adb3357b65277226fe454d670aa2268963729df075d1363"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5292e88c60d0ad957c9168d92d18475ab9f4eccf56137615e93c707c779a3910"
+hash = "974f7492e1557e17a5aceadf5d0094d6e57ea6cf3da56ec306922b339cc3dba4"
 metafile = true
 
 [[files]]
@@ -61,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "da5a2dba3ec82b05ec03cb6a812ba002e5e182cb1f85d4f942e67c5b466644f4"
+hash = "534a07d970cbf69e74b872218550a94fe062060e3e2c001b2c37d7c973787a07"
 metafile = true
 
 [[files]]
 file = "mods/fastsuite.pw.toml"
-hash = "d6c054a4f547e92831b8ef5fe4afea6432269a19fd1a60ba576865faff8a4638"
+hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
 metafile = true
 
 [[files]]
@@ -77,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "807971d207f593d747063f389dd3809b8b82c2aa1e572e87180ab694e67e44de"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "3e9b9722da123b1d4120f0d9aba8de9968aba4aad6e9c7564423672171e00d9e"
 metafile = true
 
 [[files]]
@@ -106,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1afb33be54c4e1b2020665d327ccbc907f87a329e0a1638d00dcc5405b982bce"
+hash = "5a72bbe79e0019e6b40381c175db6bbee1288824b64f38950dd1bc3bb0fb98a7"
 metafile = true
 
 [[files]]
@@ -126,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirectionor.pw.toml"
-hash = "c57c594011bf03207eead003a96ed27701fa189a6078d37f506cb7e8af235c3d"
+hash = "70322cb279af0a08ba81e481e1b1e07bd4ba040a20ba4a7aaf4ed7ec8adaa575"
 metafile = true
 
 [[files]]
@@ -141,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
+hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
 metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
+hash = "f09b8dd9df72e507cbeb70119bd9c1c41cafde5e4806b7205ba82219591187e7"
 metafile = true
 
 [[files]]
@@ -156,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "8f96fe4a32aec8063bc5ebe741b3f177d603db6b8b7d98b89a5eb8d04871180e"
+hash = "ff165930fefc6454184a57043ad4f5c3c6920bb5ef82f040f2db05ec3669f761"
 metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "b356d99b4c7b4b3362513d50126c95d5d8ef798035b08cb5881066b32f0b1018"
+hash = "1ffffc93acb996a5619114491fc3923f4a9418bc0a7c8a2002c53a5167479189"
 metafile = true
 
 [[files]]
