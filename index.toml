@@ -86,7 +86,7 @@ hash = "ab1a142b08e16556f6c81f073a4fe03623f183ab3b5a463872e395c253fcde5e"
 
 [[files]]
 file = "config/culinaryconstruct-server.toml"
-hash = "f49d872dca40f2bde09c976beccced97a5a36675b19014654ce5ac1985d04616"
+hash = "2b08dbcf5a75f8a32f9459bf22375f0c4ede98a805fd3a6c03994386c3ccb01f"
 
 [[files]]
 file = "config/cupboard.json"
@@ -193,6 +193,58 @@ file = "config/extendedcrafting/singularities/tin.json"
 hash = "d1d365e149244bbb1a73f902e53151e8831ef8b85f6dc21a09cb89c588f83982"
 
 [[files]]
+file = "config/extradelight-common.toml"
+hash = "816088ebf5d51ec33190a8085f3876fa96594b69417b308fca4231f63c882b70"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a83e520716f7d5fa43025d5991acd6e2160fc43ba604bd4c258b9f5c0812830f"
+
+[[files]]
+file = "config/fancymenu/customization/breadwinners-loading.txt"
+hash = "1465b3fede79c16d3b8137975dce9f596c2c8443d82668b0434a8ffb22dc524a"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -258,7 +310,7 @@ hash = "b373bf5f3fbc2df6a49bd3a6c2380ec999bb9a4f1f9b0ad5ae4d25101c483518"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "bc41123d579d5e50b42c5c0577626c626e94c8e16a1918ce21fc66c011f48e30"
+hash = "44185b828cf0db545e4b92292ee3f4a0ab01b64769f0eb0c5089a3e464d929f0"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -278,7 +330,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "6624de1ba225ddc76c79353c6216409034f252b3c50d9cfdd14ce7fce2d7f7f1"
+hash = "26530b86ef99271daca46673920ea2c04c0aa9201960d78c4c3ed9ff2109960e"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -325,8 +377,12 @@ file = "config/mysterious_mountain_lib-common.toml"
 hash = "f9e83782dec7691b907f56f1a621a710342e480cac190599a853f7223ea9bd50"
 
 [[files]]
+file = "config/neapolitan-common.toml"
+hash = "a23d61a0d31f12af9e45f1b35d63cf7744a2eb7362aae88ae75337ac007a5b19"
+
+[[files]]
 file = "config/oculus.properties"
-hash = "e88ac91bfa28c1888c514e41bb4f57ebe898295576c2a9c6527980dd64cbf037"
+hash = "6941584e7f8631e249f1c8d3f97dfb44d973a0e2b457849d9236fdf6d6e44ef8"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -462,11 +518,15 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "3d0b76d437c8d4133381cb1dd96dbcb9e39b1dc4b042f4f07ff16577d101cec1"
+hash = "9022066441dcedf1874397534504b57f7bec98778af3c1a216e53da96cee585d"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "menu/assets/breadwinners-logo.png"
+hash = "b79667266e763eda9688538c063a448df5096bf18f4ca2572bc246cceb3167b9"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -564,6 +624,11 @@ hash = "a7772c1f7948e87e8adb3357b65277226fe454d670aa2268963729df075d1363"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "fce3089208490af196cad6643b2cec76dd58e83a6313c17f47d2d8009a02048a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "974f7492e1557e17a5aceadf5d0094d6e57ea6cf3da56ec306922b339cc3dba4"
 metafile = true
@@ -591,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/extradelight.pw.toml"
 hash = "09c2aa1122a8ef467b3f6af04dd743db3932994cdf07d20daf21f5a6a6cf9ea8"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "c1610b9ecd0d77d76661930e0ec9f42dd145f86689137a75e5ea4ed60b02f5ae"
 metafile = true
 
 [[files]]
