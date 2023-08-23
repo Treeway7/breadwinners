@@ -26,6 +26,11 @@ hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
 file = "mods/autumnity.pw.toml"
 hash = "3f9bb40c4189627084327386dfdd54b14eadd0bff171399f193a9596e33a9072"
 metafile = true
@@ -58,6 +63,16 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "9129b8506009ba000fa1449707b3964272a58a95368ab97bc652ea94ce6884ae"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c0c8819595b27c1aff854c8570acc3fe87dd42d88d8219e7abdd4781257d6ac2"
 metafile = true
 
 [[files]]
@@ -98,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
 metafile = true
 
 [[files]]
@@ -161,6 +181,21 @@ hash = "224dc68333b17b52fbb9e2b69bf67c1b919fcac1125d9bbeae8c8c6613766bfa"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "22267079d5b777a0d8da7ec58707613711689dbb2902502b996658ec1a14bd8a"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "04e6cbf4762f7264c2dad8728d4f495a98a0301e0d6fa27122840b064a27964e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "4f782be170c9a976aadcc4f18ed766bea2d0e11692f3bb75cb98196e8de81734"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6ecdb29b8286ce932de61ebf2ea8233cd40046b2f0fce85992202cb07eabbba2"
 metafile = true
@@ -178,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "5a72bbe79e0019e6b40381c175db6bbee1288824b64f38950dd1bc3bb0fb98a7"
+metafile = true
+
+[[files]]
+file = "mods/morejs.pw.toml"
+hash = "609d4711bee740de809d47241bbeb38c7c598e530fdf11ebad9ab8a84a7881d3"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
 metafile = true
 
 [[files]]
@@ -203,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/probejs.pw.toml"
 hash = "73a886e89a6a76a9f4a3959d901e6a9e94d80913ac041b1b40b5be2743e9b81f"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
 metafile = true
 
 [[files]]
@@ -256,8 +306,23 @@ hash = "ff165930fefc6454184a57043ad4f5c3c6920bb5ef82f040f2db05ec3669f761"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "239903854f201b23dfdc6cebd117f8d710db8796338ddaa02f42a4663f4e4db3"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "1ffffc93acb996a5619114491fc3923f4a9418bc0a7c8a2002c53a5167479189"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
