@@ -564,6 +564,11 @@ hash = "a7772c1f7948e87e8adb3357b65277226fe454d670aa2268963729df075d1363"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "fce3089208490af196cad6643b2cec76dd58e83a6313c17f47d2d8009a02048a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "974f7492e1557e17a5aceadf5d0094d6e57ea6cf3da56ec306922b339cc3dba4"
 metafile = true
@@ -586,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/extended-crafting.pw.toml"
 hash = "09425709e8f8c973f03ee762653b0e11bfd3f95e11ca07650f96c824a23d05cf"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "c1610b9ecd0d77d76661930e0ec9f42dd145f86689137a75e5ea4ed60b02f5ae"
 metafile = true
 
 [[files]]
