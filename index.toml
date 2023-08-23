@@ -86,7 +86,7 @@ hash = "ab1a142b08e16556f6c81f073a4fe03623f183ab3b5a463872e395c253fcde5e"
 
 [[files]]
 file = "config/culinaryconstruct-server.toml"
-hash = "f49d872dca40f2bde09c976beccced97a5a36675b19014654ce5ac1985d04616"
+hash = "2b08dbcf5a75f8a32f9459bf22375f0c4ede98a805fd3a6c03994386c3ccb01f"
 
 [[files]]
 file = "config/cupboard.json"
@@ -191,6 +191,10 @@ hash = "9e0b586f2d9e247469779b137ab3d36c777e2ed8138d725cff53158f84044fc4"
 [[files]]
 file = "config/extendedcrafting/singularities/tin.json"
 hash = "d1d365e149244bbb1a73f902e53151e8831ef8b85f6dc21a09cb89c588f83982"
+
+[[files]]
+file = "config/extradelight-common.toml"
+hash = "816088ebf5d51ec33190a8085f3876fa96594b69417b308fca4231f63c882b70"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -306,7 +310,7 @@ hash = "b373bf5f3fbc2df6a49bd3a6c2380ec999bb9a4f1f9b0ad5ae4d25101c483518"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "bc41123d579d5e50b42c5c0577626c626e94c8e16a1918ce21fc66c011f48e30"
+hash = "44185b828cf0db545e4b92292ee3f4a0ab01b64769f0eb0c5089a3e464d929f0"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -326,7 +330,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "6624de1ba225ddc76c79353c6216409034f252b3c50d9cfdd14ce7fce2d7f7f1"
+hash = "26530b86ef99271daca46673920ea2c04c0aa9201960d78c4c3ed9ff2109960e"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -373,8 +377,12 @@ file = "config/mysterious_mountain_lib-common.toml"
 hash = "f9e83782dec7691b907f56f1a621a710342e480cac190599a853f7223ea9bd50"
 
 [[files]]
+file = "config/neapolitan-common.toml"
+hash = "a23d61a0d31f12af9e45f1b35d63cf7744a2eb7362aae88ae75337ac007a5b19"
+
+[[files]]
 file = "config/oculus.properties"
-hash = "e88ac91bfa28c1888c514e41bb4f57ebe898295576c2a9c6527980dd64cbf037"
+hash = "6941584e7f8631e249f1c8d3f97dfb44d973a0e2b457849d9236fdf6d6e44ef8"
 
 [[files]]
 file = "config/placebo.cfg"
@@ -510,7 +518,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "3d0b76d437c8d4133381cb1dd96dbcb9e39b1dc4b042f4f07ff16577d101cec1"
+hash = "9022066441dcedf1874397534504b57f7bec98778af3c1a216e53da96cee585d"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -643,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/extended-crafting.pw.toml"
 hash = "09425709e8f8c973f03ee762653b0e11bfd3f95e11ca07650f96c824a23d05cf"
+metafile = true
+
+[[files]]
+file = "mods/extradelight.pw.toml"
+hash = "09c2aa1122a8ef467b3f6af04dd743db3932994cdf07d20daf21f5a6a6cf9ea8"
 metafile = true
 
 [[files]]
