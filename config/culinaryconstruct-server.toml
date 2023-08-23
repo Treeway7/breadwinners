@@ -10,7 +10,7 @@
 	#Range: -1 ~ 100
 	maxIngredientFood = -1
 	#List of items to blacklist as ingredients
-	ingredientBlacklist = []
+	ingredientBlacklist = ["some_assembly_required:sandwich"]
 	#Set to true to show nutrition and saturation information in the extended tooltip
 	showNutritionInfo = false
 

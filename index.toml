@@ -589,6 +589,11 @@ hash = "09425709e8f8c973f03ee762653b0e11bfd3f95e11ca07650f96c824a23d05cf"
 metafile = true
 
 [[files]]
+file = "mods/extradelight.pw.toml"
+hash = "09c2aa1122a8ef467b3f6af04dd743db3932994cdf07d20daf21f5a6a6cf9ea8"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
 metafile = true
