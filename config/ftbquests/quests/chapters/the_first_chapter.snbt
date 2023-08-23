@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_first_chapter"
+	group: ""
+	icon: "create:wheat_flour"
+	id: "796346A8F6199B5B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["Bread-Based Modpack Based Around Bread"]
+		icon: "minecraft:bread"
+		id: "4A1F8624D5FF317D"
+		tasks: [{
+			id: "01F418F049B1E303"
+			title: "Bread Modpack"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "The First Chapter"
+}
