@@ -1,0 +1,11 @@
+{
+    "item.minecraft.rotten_flesh": "Moldy Bread",
+
+    "item.minecraft.gold_nugget": "Golden Breadcrumb",
+    "item.minecraft.gold_ingot": "Golden Bread",
+    "block.minecraft.gold_block": "Golden Bread Block",
+    "item.minecraft.raw_gold": "Golden Dough",
+    "block.minecraft.raw_gold_block": "Golden Dough Block",
+
+    "item.create.crushed_raw_gold": "Milled Golden Dough"
+}
