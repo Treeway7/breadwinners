@@ -1,0 +1,73 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 145
+  width = 350
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = b490cae1-9fd1-4991-b30e-4a1a3b1b6a961692822034228
+  y = 132
+  height = 86
+}
+
+customization {
+  custom_color_hex = #45963b
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 46334487-5690-4deb-87a4-4b5f6d21d5181692822034239
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 140
+  width = 360
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 611b93d4-88dd-46b9-be5c-0aae66d26fef1692822034239
+  y = 294
+  height = 10
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 87d19971-d580-4f22-af02-d63bab84edfd1692823039198
+  y = 6
+  height = 100
+}
+
+customization {
+  path = menu/assets/breadwinners-logo.png
+  orientation = mid-centered
+  x = -38
+  width = 76
+  action = addtexture
+  actionid = 7e144c6d-fbef-439a-b0ef-eddbead27c871692823061179
+  y = -38
+  height = 76
+}
+
