@@ -146,11 +146,6 @@ hash = "807971d207f593d747063f389dd3809b8b82c2aa1e572e87180ab694e67e44de"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "3e9b9722da123b1d4120f0d9aba8de9968aba4aad6e9c7564423672171e00d9e"
-metafile = true
-
-[[files]]
 file = "mods/goal-optimizer.pw.toml"
 hash = "5f296955382d726b7d6ea1a27bb3357f244653dfb2f0aa36185567fb5ceb9519"
 metafile = true
