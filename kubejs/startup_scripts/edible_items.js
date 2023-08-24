@@ -34,7 +34,7 @@ ItemEvents.modification((event) => {
 
                     // let newSaturation = ((value.hunger / 2) * (1 / (2 * value.hunger + 1)) * 1.0).toFixed(2);
                     let newSaturation = (desired * (1 / (2 * value.hunger + 1)) * 1.0).toFixed(2);
-                    // => desired = 2; newSaturation = 0.15
+                    // => hunger = 6; desired = 2; newSaturation = 0.15
 
                     console.log("KJS1: " + desired);
                     console.log("KJS2: " + value.desiredSaturation);
