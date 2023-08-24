@@ -1,9 +1,30 @@
 {
     "item.minecraft.rotten_flesh": "Moldy Bread",
+    "item.minecraft.stick": "Breadstick",
 
-    "item.minecraft.gold_nugget": "Golden Breadcrumb",
-    "item.minecraft.gold_ingot": "Golden Bread",
-    "block.minecraft.gold_block": "Golden Bread Block",
-    "item.minecraft.raw_gold": "Golden Dough",
-    "block.minecraft.raw_gold_block": "Golden Dough Block"
+
+    "item.minecraft.gold_nugget": "Gold Toast Piece",
+    "item.minecraft.gold_ingot": "Gold Toast",
+    "item.minecraft.raw_gold": "Gold Slice",
+
+    "block.minecraft.gold_block": "Gold Toast Block",
+    "block.minecraft.gold_ore": "Gold Toast Ore",
+    "block.minecraft.deepslate_gold_ore": "Deepslate Gold Toast Ore",
+    "block.minecraft.nether_gold_ore": "Nether Gold Toast Ore",
+    "block.minecraft.raw_gold_block": "Gold Slice Block",
+
+    "item.minecraft.golden_sword": "Golden Toast Sword",
+    "item.minecraft.golden_shovel": "Golden Toast Shovel",
+    "item.minecraft.golden_pickaxe": "Golden Toast Pickaxe",
+    "item.minecraft.golden_axe": "Golden Toast Axe",
+    "item.minecraft.golden_hoe": "Golden Toast Hoe",
+    "item.minecraft.golden_helmet": "Golden Toast Helmet",
+    "item.minecraft.golden_chestplate": "Golden Toast Chestplate",
+    "item.minecraft.golden_leggings": "Golden Toast Leggings",
+    "item.minecraft.golden_boots": "Golden Toast Boots",
+    "item.minecraft.golden_horse_armor": "Golden Toast Horse Armor",
+
+    "item.minecraft.golden_apple": "Golden Toast-Filled Apple",
+    "item.minecraft.enchanted_golden_apple": "Enchanted Golden Toast-Filled Apple",
+    "item.minecraft.golden_carrot": "Golden Toast-Filled Carrot"
 }

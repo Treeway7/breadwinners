@@ -478,7 +478,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/create/lang/en_us.json"
-hash = "f72b71e763de0615b9957e91c160565f37374dbe7599dd0e3fad743d89f60fb7"
+hash = "69eb9963837ed2255256c4b3922b70be60e00ed6be5fbab657662cef2cf134b9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -490,11 +490,11 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/assets/minecraft/lang/en_us.json"
-hash = "0441a0590bbac1323e3965bf63bd36e9039209a285976f533c5d2be388323cd2"
+hash = "d48174074d3bf71095c49fe803a0eadb0bc55b1c9ae33b8015f251009cfc8abb"
 
 [[files]]
 file = "kubejs/assets/quark/lang/en_us.json"
-hash = "04a93bd156eb8ab1a8d0e7210d5e3b6b20e37caf807720b521dd66241759c4ab"
+hash = "707612ffff979905cfaf5023615fa94edee08530cc997d410581b18962b66349"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
@@ -522,7 +522,7 @@ hash = "534aa6eab2328af970e363b845394fb893a461eaa7a68533b25d15a7e5978ca8"
 
 [[files]]
 file = "kubejs/startup_scripts/edible_items.js"
-hash = "de1b8cc35b0bb1da8de8f4b9e48933558da955b4bbf5a878015cc093b084128b"
+hash = "c2fa4f3ab6024efef524be07e3690e903e58c7700e5a76a3a45d5e75bd97342b"
 
 [[files]]
 file = "menu/assets/breadwinners-logo.png"

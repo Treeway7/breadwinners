@@ -1,16 +1,52 @@
 let edible_items = {
+    'minecraft:coal': {
+        'hunger': 1,
+        'effect': {
+            'name': 'minecraft:poison',
+            'duration': 200,
+            'amplifier': 1,
+            'probability': 1.0,
+        }
+    },
     'minecraft:iron_ingot': {
-        'hunger': 6,
-        'desiredSaturation': 3,
+        'hunger': 3,
+        'effect': {
+            'name': 'minecraft:resistance',
+            'duration': 200,
+            'amplifier': 0,
+            'probability': 0.80,
+        }
+    },
+
+    'minecraft:raw_gold': {
+        'hunger': 1,
+        'effect': {
+            'name': 'minecraft:absorption',
+            'duration': 100,
+            'amplifier': 0,
+            'probability': 0.25,
+        },
+    },
+    'minecraft:gold_ingot': {
+        'hunger': 5,
+        'desiredSaturation': 4,
+        'effect': {
+            'name': 'minecraft:absorption',
+            'duration': 200,
+            'amplifier': 0,
+            'probability': 1.0,
+        },
+    },
+    'minecraft:gold_nugget': {
+        'hunger': 0,
         'alwaysEdible': true,
         'fastToEat': true,
-        'meat': true,
         'effect': {
-            'name': 'minecraft:speed',
-            'duration': 600,
+            'name': 'minecraft:absorption',
+            'duration': 20,
             'amplifier': 0,
-            'probability': 100,
-        }
+            'probability': 1.0,
+        },
     },
 }
 
@@ -60,14 +96,16 @@ ItemEvents.modification((event) => {
 
                 if (value.effect != null) {
                     if (value.effect.name != null && typeof value.effect.name === 'string') {
-                        if (value.effect.duration != null && Number.isInteger(value.hunger)) {
-                            if (value.effect.amplifier != null && Number.isInteger(value.hunger)) {
-                                if (value.effect.probability != null && Number.isInteger(value.hunger)) {
+                        if (value.effect.duration != null && Number.isInteger(value.effect.duration)) {
+                            if (value.effect.amplifier != null && Number.isInteger(value.effect.amplifier)) {
+                                if (value.effect.probability != null && typeof value.effect.probability === 'number') {
+                                    // Cast to float, just in case
+                                    let probability = value.effect.probability * 1.0;
                                     food.effect(
                                         value.effect.name,
                                         value.effect.duration,
                                         value.effect.amplifier,
-                                        value.effect.probability
+                                        probability,
                                     );
                                 }
                             }

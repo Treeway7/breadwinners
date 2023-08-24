@@ -1,6 +1,10 @@
 {
-    "block.quark.raw_gold_bricks": "Golden Dough Bricks",
-    "block.quark.raw_gold_bricks_slab": "Golden Dough Brick Slab",
-    "block.quark.raw_gold_bricks_stairs": "Golden Dough Brick Stairs",
-    "block.quark.raw_gold_bricks_vertical_slab": "Golden Dough Brick Vertical Slab"
+    "block.quark.raw_gold_bricks": "Golden Slice Bricks",
+    "block.quark.raw_gold_bricks_slab": "Golden Slice Brick Slab",
+    "block.quark.raw_gold_bricks_stairs": "Golden Slice Brick Stairs",
+    "block.quark.raw_gold_bricks_vertical_slab": "Golden Slice Brick Vertical Slab",
+    "block.quark.gold_bars": "Gold Toast Bars",
+    "block.quark.gold_button": "Gold Toast Button",
+    "block.quark.golden_apple_crate": "Golden Toast-Filled Apple Crate",
+    "block.quark.golden_carrot_crate": "Golden Toast-Filled Carrot Crate"
 }
