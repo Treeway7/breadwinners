@@ -654,11 +654,6 @@ hash = "09425709e8f8c973f03ee762653b0e11bfd3f95e11ca07650f96c824a23d05cf"
 metafile = true
 
 [[files]]
-file = "mods/extradelight.pw.toml"
-hash = "09c2aa1122a8ef467b3f6af04dd743db3932994cdf07d20daf21f5a6a6cf9ea8"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "c1610b9ecd0d77d76661930e0ec9f42dd145f86689137a75e5ea4ed60b02f5ae"
 metafile = true
