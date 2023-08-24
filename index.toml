@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".editorconfig"
+hash = "811d2a2260080f534d22bb1e44eb6cb4e9184876afe5e65e8810cd4b9350a037"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
 
@@ -513,16 +517,12 @@ file = "kubejs/jsconfig.json"
 hash = "70f26cbe24e0349047f8824b478a1aa94167048bd4dc85af86e84d85e649c535"
 
 [[files]]
-file = "kubejs/server_scripts/example.js"
-hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
-
-[[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "9022066441dcedf1874397534504b57f7bec98778af3c1a216e53da96cee585d"
+hash = "534aa6eab2328af970e363b845394fb893a461eaa7a68533b25d15a7e5978ca8"
 
 [[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+file = "kubejs/startup_scripts/edible_items.js"
+hash = "d5c6f07d73ef9566a78ff703d4add495ca39239a2c0ef297668a3ab3ee3bc614"
 
 [[files]]
 file = "menu/assets/breadwinners-logo.png"
